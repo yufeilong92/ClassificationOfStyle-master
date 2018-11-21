@@ -1,5 +1,5 @@
 # ClassificationOfStyle
-
+![][foryou]https://github.com/yufeilong92/ClassificationOfStyle-master/blob/master/gif/a.gif
 垂直的Tablayout 阻尼翻页效果
 
 # 加载
@@ -80,4 +80,3 @@ Step 2: Init and setListener
      CustomChildView childView = new CustomChildView(getActivity());
      childView.initChildView(View view);
 
-[foryou]:https://github.com/yufeilong92/ClassificationOfStyle-master/blob/master/gif/gif5%E6%96%B0%E6%96%87%E4%BB%B6.gif

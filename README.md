@@ -1,6 +1,6 @@
 # ClassificationOfStyle
-![][foryou]https://github.com/yufeilong92/ClassificationOfStyle-master/blob/master/gif/a.gif
-垂直的Tablayout 阻尼翻页效果
+![][https://github.com/yufeilong92/ClassificationOfStyle-master/blob/master/gif/a.gif]
+# 垂直的Tablayout 阻尼翻页效果
 
 # 加载
 Step 1. Add the JitPack repository to your build file

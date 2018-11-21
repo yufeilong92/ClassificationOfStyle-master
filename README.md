@@ -1,5 +1,5 @@
 # ClassificationOfStyle
-![https://github.com/yufeilong92/ClassificationOfStyle-master/blob/master/gif/a.gif][]
+![]:https://github.com/yufeilong92/ClassificationOfStyle-master/blob/master/gif/a.gif
 # 垂直的Tablayout 阻尼翻页效果
 
 # 加载

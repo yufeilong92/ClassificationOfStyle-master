@@ -79,5 +79,5 @@ Step 2: Init and setListener
     
      CustomChildView childView = new CustomChildView(getActivity());
      childView.initChildView(View view);
-     
-[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+
+[foryou]:https://github.com/yufeilong92/ClassificationOfStyle-master/blob/master/gif/gif5%E6%96%B0%E6%96%87%E4%BB%B6.gif
